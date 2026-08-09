@@ -25,8 +25,8 @@ with open("text.txt", "w", encoding="utf-8"):
 # Настройки
 # ==========================
 
-TOKEN = "8966224967:AAHBvkf7pxG6AO3uqZa3hlSzMU6Qu6TjzM8"
-CHAT_ID = "1879557622"
+TOKEN = "BOT TOKEN"
+CHAT_ID = "CHAT ID WITH BOT"
 
 # ==========================
 # Функция отправки
